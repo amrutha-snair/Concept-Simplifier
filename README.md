@@ -1,4 +1,4 @@
-# Concept Simplifier: Pure Agentic AI
+# Concept Simplifier Agent
 
 An autonomous, multi-agent feedback loop designed to simplify complex technical concepts into beginner-friendly explanations. Powered by **Node.js**, **React**, and **Ollama** for a completely private, local-first experience.
 
