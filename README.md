@@ -10,10 +10,10 @@ An autonomous, multi-agent feedback loop designed to simplify complex technical 
 Unlike a standard "one-shot" AI prompt, this system implements a **recursive refinement loop**. It simulates four cognitive modules to ensure the final output is high-quality and jargon-free.
 
 ### 🧠 Internal Roles
-1.  ** The Explainer (Master Mentor)**: Generates the initial narrative and analogy.
-2.  ** The Complexity Critic (Brutal Evaluator)**: Analyzes the draft for jargon, dry writing, and "textbook" vibes. Returns a score (0-10).
-3.  ** The Refiner (World-Class Editor)**: Rewrites the explanation based on specific feedback from the Critic.
-4.  ** The Stop Controller**: An autonomous gatekeeper that only releases the explanation once it hits a "beginner-ready" threshold (Score ≥ 8).
+1.  The Explainer (Master Mentor)**: Generates the initial narrative and analogy.
+2.  The Complexity Critic (Brutal Evaluator)**: Analyzes the draft for jargon, dry writing, and "textbook" vibes. Returns a score (0-10).
+3.  The Refiner (World-Class Editor)**: Rewrites the explanation based on specific feedback from the Critic.
+4.  The Stop Controller**: An autonomous gatekeeper that only releases the explanation once it hits a "beginner-ready" threshold (Score ≥ 8).
 
 ---
 
