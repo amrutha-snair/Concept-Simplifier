@@ -3,6 +3,7 @@
 An autonomous, multi-agent feedback loop designed to simplify complex technical concepts into beginner-friendly explanations. Powered by **Node.js**, **React**, and **Ollama** for a completely private, local-first experience.
 
 
+
 ---
 
 ## The Agentic Core
